@@ -2,7 +2,7 @@
 
 ## 介紹
 
-原作者網站連結：[GitHub Page](https://lidemy.github.io/lazy-hackathon/)
+原作者網站連結：[GitHub Page](https://lidemy.github.io/lazy-hackathon/)<br>
 網站連結：[Github Page](https://des86532.github.io/lazy-hackathon/)
 
 ![visual](https://i.imgur.com/sb1m6XB.png)
