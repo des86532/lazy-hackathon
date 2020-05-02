@@ -16,7 +16,8 @@
     "url": "https://github.com/des86532/lazy-hackathon/issues"
   },
   "homepage": "https://github.com/des86532/lazy-hackathon#readme",
-  "devDependencies": {
-    "webpack": "^4.41.5"
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.2"
   }
 }
